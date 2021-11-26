@@ -1,0 +1,17 @@
+*{
+    
+    margin: 0;
+    width: 100%;
+    overflow-x: hidden;
+    font-family: "effra","Helvetica Neue","Helvetica","Arial",sans-serif;
+    line-height: 1.5;
+    font-size: 18px;
+    background-color: #F8F8F8;
+
+}
+h1, h2, h3, h4, h5, h6 {
+
+    color: #666c70;
+    font-size: 18px;
+    
+}
